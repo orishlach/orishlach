@@ -38,7 +38,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=orishlach&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=orishlach&theme=midnight-purple&hide_border=true" width="60%" />
 
 ## Connect
 
