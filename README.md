@@ -34,10 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omerchernia&repo=Hasertia_Project&theme=midnight-purple&hide_border=true" />
 </a>
 
-## Development Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=orishlach&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" width="100%">
-
 
 ## Connect
 
@@ -55,7 +51,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,2,12&height=150&section=footer" width="100%">
 
-
+##
 
 <div align="center">
 
