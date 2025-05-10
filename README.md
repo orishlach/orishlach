@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,2,12&height=300&section=header&text=Or%20Ishlach&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" width="100%">
-
 ## Technical Proficiency
 
 <table>
@@ -48,8 +46,6 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,2,12&height=150&section=footer" width="100%">
 
 ##
 
