@@ -24,6 +24,10 @@
 
 ## Featured Projects
 
+<a href="https://github.com/orishlach/ik-servo-arm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orishlach&repo=ik-servo-arm&theme=midnight-purple&hide_border=true" />
+</a>
+
 <a href="https://github.com/orishlach/animation-and-robotics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orishlach&repo=animation-and-robotics&theme=midnight-purple&hide_border=true" />
 </a>
