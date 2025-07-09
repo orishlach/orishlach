@@ -56,9 +56,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=orishlach&style=flat-square&color=blue)
-[![Repos Badge](https://badges.pufler.dev/repos/orishlach)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/orishlach)](https://badges.pufler.dev)
-
 </div>
 
 
