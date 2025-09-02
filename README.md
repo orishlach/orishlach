@@ -36,6 +36,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omerchernia&repo=Hasertia_Project&theme=midnight-purple&hide_border=true" />
 </a>
 
+<a href="https://github.com/orishlach/openMP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orishlach&repo=openMP&theme=midnight-purple&hide_border=true" />
+</a>
 
 ## Connect
 
