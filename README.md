@@ -40,6 +40,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orishlach&repo=openMP&theme=midnight-purple&hide_border=true" />
 </a>
 
+
 ## Connect
 
 <div align="center">
