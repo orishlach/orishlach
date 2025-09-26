@@ -40,6 +40,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orishlach&repo=openMP&theme=midnight-purple&hide_border=true" />
 </a>
 
+<a href="https://github.com/orishlach/avl-product-ranker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orishlach&repo=avl-product-ranker&theme=midnight-purple&hide_border=true" />
+</a>
+
 
 ## Connect
 
@@ -53,7 +57,10 @@
   <a href="https://github.com/orishlach" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  
 </div>
+
+
 
 ##
 
