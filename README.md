@@ -12,7 +12,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[avl-product-ranker](https://github.com/orishlach/avl-product-ranker)** | An advanced data structure using dual AVL trees to optimize product ranking by quality & insertion time. | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) |
-| **[openMP](./openMP)** | Seminar on parallel programming, demonstrating multi-threading and performance optimization. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **[openMP](https://github.com/orishlach/openMP)** | Seminar on parallel programming, demonstrating multi-threading and performance optimization. | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
 
 #### Systems & Backend
 | Project | Description | Tech Stack |
